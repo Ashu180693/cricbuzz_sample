@@ -1,0 +1,49 @@
+
+var ftGUID_4168058="5552545C3D8368";
+var ftConfID_4168058="0";
+var ftParams_4168058="ftOBA=1&ft_domain=www.cricbuzz.com&ft_ifb=1&ft_agentEnv=0&ft_referrer=https%3A%2F%2Fwww.cricbuzz.com%2F&us_privacy=${US_PRIVACY}&cachebuster=944455.2974404463&ft_dv=%5B%25ft_dv%25%5D";
+var ftKeyword_4168058="";
+var ftCustom_4168058="";
+var ftSection_4168058="";
+var ftSegment_4168058="";
+var ftSegmentList_4168058=[];
+var ftRuleMatch_4168058="0";
+var ftTimestamp_4168058="1679768535";
+var ftGeoC2_4168058="in";
+var ftGeoState_4168058="ut";
+var ftGeoCity_4168058="dehradun";
+var ftISP_4168058="bharti airtel limited";
+var ftSpeed_4168058="xdsl";
+var ftConnType_4168058="wifi";
+var ftDMA_4168058="-1";
+var ftLong_4168058="78.09";
+var ftLat_4168058="30.46";
+var ftPostal_4168058="248179";
+var ftTimeZone_4168058="+530";
+var ftMobileCarrier_4168058="";
+var ftImp4168058 = {};
+ftImp4168058.privacy = "x";
+ftImp4168058.guidAge = "10";
+ftImp4168058.impID = "DB3477FD-C11B-37F6-7B35-C8BD4DA81CD4";
+ftImp4168058.duid = "FT:5552545C3D8368";
+
+ftImp4168058.ft_tpplid = "";
+ftImp4168058.ft_c = {};
+ftImp4168058.gdpr = "";
+ftImp4168058.gdpr_consent = "";
+ftImp4168058.gdpr_pd = "";
+ftImp4168058.oob_consent = "";
+ftImp4168058.gdprStoredConsent = "";
+ftImp4168058.us_privacy = "!!US_PRIVACY!";
+
+ftImp4168058.jsAppend = "1";
+(function(){
+    var tag = document.getElementById('ft_servedby_4168058') || (function(s){
+    	return s[s.length-1];
+    }(document.getElementsByTagName('script'))),
+           js = document.createElement('script');
+    js.src =
+"https://cdn.flashtalking.com/xre/416/4168058/4239502/js/j-4168058-4239502.js";
+    js.id = "ftscript_m4168058";
+    tag.parentNode.insertBefore(js, tag);
+}());
